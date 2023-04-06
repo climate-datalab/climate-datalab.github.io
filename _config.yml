@@ -20,7 +20,7 @@
 
 title: Climate DataLab
 email: sstevenson@ucsb.edu
-description: >- A public resource for climate modeling education 
+description: >- 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://climate-datalab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: slgstevenson
